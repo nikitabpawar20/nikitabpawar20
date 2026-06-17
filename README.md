@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Nikita Pawar 👋
 
-<!--
-**nikitabpawar20/nikitabpawar20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm currently learning programming, Data Structures & Algorithms, and Full Stack developer. This profile is where I document my learning journey, projects, and progress as I grow into a developer.
+
+## 🌱 Currently Learning
+
+- C++ & Data Structures and Algorithms (DSA)
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+## 🎯 Next on My Roadmap
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- MERN Stack Development
+
+## 🚀 Goals
+
+- Build real-world web development projects
+- Strengthen problem-solving skills through DSA
+- Create a strong GitHub portfolio
+- Secure software development internships
+- Become a Full Stack Developer
+
+## 🛠 Tools
+
+- VS Code
+- Git
+- GitHub
+- npm
+- Postman
+
+## 📚 Current Focus
+
+Learning consistently, building projects, and improving my development skills one step at a time.
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/nikita-pawar-5b7498335
+
+⭐ Thanks for visiting my profile!
